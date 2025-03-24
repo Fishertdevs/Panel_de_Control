@@ -11,7 +11,7 @@ Una aplicación interactiva desarrollada con Streamlit y Plotly para analizar y 
   - Documentos Word (`.docx`).
   - Imágenes (formatos comunes como `.png`, `.jpg`, `.jpeg`, `.bmp`, `.gif`).
   - Archivos Jupyter Notebook (`.ipynb`).
-
+  - Archivos grandes (`zip`).
 - Gráficos dinámicos:
   - Generación de gráficos interactivos (dispersión, línea, barras) para archivos Excel con columnas numéricas.
 
