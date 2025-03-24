@@ -1,0 +1,8 @@
+streamlit
+plotly
+pandas
+pypdf2
+python-docx
+pillow
+nbformat
+zipfile
