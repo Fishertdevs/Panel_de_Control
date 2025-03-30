@@ -46,4 +46,4 @@ Una aplicación interactiva desarrollada con Streamlit y Plotly para analizar y 
 ![alt text](image-1.png)
 
 ---
-   desarrollado por harry fishert 
+   Desarrollado por harry fishert 
