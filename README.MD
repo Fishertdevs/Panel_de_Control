@@ -40,4 +40,10 @@ Una aplicación interactiva desarrollada con Streamlit y Plotly para analizar y 
    ```bash
    git clone https://github.com/Fishertdevs/Panel_de_Control.git
    cd Panel_de_Control
+
+
+## Preview 
+![alt text](image1.png)
+
+---
    desarrollado por harry fishert 
